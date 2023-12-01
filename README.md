@@ -27,3 +27,6 @@ We will start experimentation with the skin cancer dataset from 221 since it has
 | Method   | Overall Accuracy | Skin Type's {1, 2, 3} Accuracy | Skin Type's {4, 5, 6} Accuracy | Logs |
 |---------|---|---|---| --- |
 | Supervised baseline | 0% | 0% | 0% | n/a |
+| Supervised per-group | 0% | 0% | 0% | n/a |
+| Standard MOE approach | 0% | 0% | 0% | n/a |
+| Domain-Routing MOE approach (our approach) | 0% | 0% | 0% | n/a |
